@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm @Kritikasapkota20</h1>
+-👋Hi, I'm @Kritikasapkota20
+
 -🔭 I’m interested in Web development
 
 -🌱 I’m currently learning React js,node js
 
 -📫 How to reach me kritikasapkota.20@gmail.com
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
