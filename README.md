@@ -2,7 +2,7 @@
 
 -🔭 I’m interested in Web development
 
--🌱 I’m currently learning React js,node js
+-🌱 I’m currently learning MERN..
 
 -📫 How to reach me kritikasapkota.20@gmail.com
 <p align="left">
