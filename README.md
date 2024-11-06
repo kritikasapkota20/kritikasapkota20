@@ -1,6 +1,6 @@
--👋Hi, I'm @Kritikasapkota20
+-👋Hi, I'm @Kritikasapkota20.
 
--🔭 I’m interested in Web development
+-🔭 I’m interested in Web development.
 
 -🌱 I’m currently learning MERN..
 
