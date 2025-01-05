@@ -2,7 +2,7 @@
 
 -🔭 I’m interested in Web development.
 
--🌱 I’m currently learning MERN..
+-🌱 I’m currently working as a Junior MERN Stack Developer.
 
 -📫 How to reach me kritikasapkota.20@gmail.com
 <p align="left">
